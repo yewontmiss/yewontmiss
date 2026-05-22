@@ -43,9 +43,15 @@ fn main() {
 
 ---
 
-### 🔭 Currently Building
+### 🔥 Streak Stats
 
-<table align="center"><tr><td align="center" width="50%"><a href="https://github.com/yewontmiss/telegram-tarot-bot"><img src="https://img.shields.io/badge/🔮_Telegram_Tarot_Bot-58A6FF?style=for-the-badge" /></a><br/><sub>Tarot card readings via Telegram</sub></td><td align="center" width="50%"><a href="https://github.com/yewontmiss/PolymarketBot"><img src="https://img.shields.io/badge/📊_Polymarket_Bot-FF6B6B?style=for-the-badge" /></a><br/><sub>Prediction market automation</sub></td></tr></table>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=yewontmiss&theme=tokyonight&hide_border=true" /></p>
+
+---
+
+### 😄 Random Dev Joke
+
+<p align="center"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight&border=true" alt="Jokes Card" /></p>
 
 ---
 
