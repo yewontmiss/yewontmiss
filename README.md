@@ -43,15 +43,15 @@ fn main() {
 
 ---
 
-### 📊 GitHub Stats
+### 🔭 Currently Building
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yewontmiss&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" /></p>
+<table align="center"><tr><td align="center" width="50%"><a href="https://github.com/yewontmiss/telegram-tarot-bot"><img src="https://img.shields.io/badge/🔮_Telegram_Tarot_Bot-58A6FF?style=for-the-badge" /></a><br/><sub>Tarot card readings via Telegram</sub></td><td align="center" width="50%"><a href="https://github.com/yewontmiss/PolymarketBot"><img src="https://img.shields.io/badge/📊_Polymarket_Bot-FF6B6B?style=for-the-badge" /></a><br/><sub>Prediction market automation</sub></td></tr></table>
 
 ---
 
-### 📈 Contribution Graph
+### 💭 Dev Quote
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=yewontmiss&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" /></p>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" /></p>
 
 ---
 
