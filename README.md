@@ -49,9 +49,9 @@ fn main() {
 
 ---
 
-### 😄 Random Dev Joke
+### 🐍 Contribution Snake
 
-<p align="center"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight&border=true" alt="Jokes Card" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/yewontmiss/yewontmiss/output/github-snake-dark.svg" alt="Snake animation" /></p>
 
 ---
 
